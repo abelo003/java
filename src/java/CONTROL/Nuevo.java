@@ -35,7 +35,7 @@ public class Nuevo extends HttpServlet {
             out.println("<!DOCTYPE html>");
             out.println("<html>");
             out.println("<head>");
-            out.println("<title>Servlet Nuevo</title>");            
+            out.println("<title>Hola Gordaaaa!!!!!!!!</title>");            
             out.println("</head>");
             out.println("<body>");
             out.println("<h1>Servlet Nuevo at " + request.getContextPath() + "</h1>");
